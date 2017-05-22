@@ -25,7 +25,7 @@ while True:
         with open(fileName, "rt") as f:
             for linenum, line in enumerate(f):
                 for char in illegalChars:
-                    line = line.replace(char, "~")
+                    line = line.replace(char, "")
                 titles.append(line)
                 continue
                 
