@@ -11,10 +11,14 @@ TO USE GiiArchitect, you will need a .txt file that contains a list of titles (o
 
 If you are working with a project worksheet, you can create this .txt file by copying a selection of script titles into a new .txt file. Titles should be left-aligned and each title should exist on its own line. Pasting a single column of data from a spreadsheet into a text editor automatically formats the text correctly. Your text file should look something like this:
 
-Title 1
-Title 2
-Title 3
-Title 4
+Title 1 
+
+Title 2 
+
+Title 3 
+
+Title 4 
+
 etc.
 
 Save your .txt file anywhere on your computer.
