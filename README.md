@@ -10,11 +10,11 @@ If you are working with a project worksheet, you can create this .txt file by co
 
 Title 1
 
-Title 2 
+Title 2
 
-Title 3 
+Title 3
 
-Title 4 
+Title 4
 
 etc.
 
@@ -22,9 +22,9 @@ Save your .txt file anywhere on your computer.
 
 # Using GiiArchitect
 
-1. When GiiArchitect runs, it will ask you to input the filepath where you would like the new directories to be created. 
+1. When GiiArchitect runs, it will ask you to input the filepath where you would like the new directories to be created.
 
-2. When passed a legitimate filepath, GiiArchitect will request the filepath and extension of the .txt file where you have saved the script titles. 
+2. When passed a legitimate filepath, GiiArchitect will request the filepath and extension of the .txt file where you have saved the script titles.
 
 3. When passed a legitimate .txt file, GiiArchitect will create a new, empty directory for each title saved in the .txt file. These new directories will be created in the parent directory specified by the user in step one.
 
@@ -55,3 +55,6 @@ GiiArchitect is on GitHub! https://github.com/twohundredboys/GiiArchitect
 This file was last updated by:
 Johnathan Ortiz-Sonnen on May 22, 2017
 jsonnen89@gmail.org
+
+
+1234567890
